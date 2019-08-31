@@ -5,4 +5,4 @@ for i in range(n):
     d = rb.count(rb[i])
     c.append(d)
 g = max(c)
-print(g8)
+print(g)
